@@ -1,0 +1,19 @@
+name: todomanagerplugin
+version: '${project.version}'
+main: com.izao.todomanagerplugin.TodoManagerPlugin
+api-version: '1.20'
+commands:
+  heal:
+    description: Heal yourself
+    usage: /heal
+  todo:
+    description: Add a todo item
+    list:
+        description: List all todo items
+        usage: /todo list
+    add:
+        description: Add a todo item
+        usage: /todo add <item>
+    remove:
+        description: Remove a todo item
+        usage: /todo remove <index>
