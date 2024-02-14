@@ -14,3 +14,5 @@ Elevate your Minecraft server management with our Todo List Plugin! This handy t
 *   /todo list
 *   /todo remove <task index>
 
+## Contributions Welcome
+We welcome contributions! Feel free to fork this repository, make improvements, and submit pull requests. Let's collaborate to make task management in Minecraft smoother and more enjoyable for everyone.
